@@ -32,9 +32,10 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 🛠️ Estrutura do projeto
 
 📦 bot-restaurantes-telegram
+
 ├── 📁 src
 
-│   └── bot.ts
+│└── bot.ts
 
 ├── .env
 
@@ -57,4 +58,5 @@ Tradução para múltiplos idiomas 🌐
 
 📬 Contato
 Desenvolvido por Rafael Salgues
+
 📧 rafaelsalgues0238@gmail.com
