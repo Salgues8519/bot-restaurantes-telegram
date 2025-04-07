@@ -4,6 +4,7 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 
 ---
 
+
 ## 📚 Funcionalidades
 
 ✅ Recebe localização do usuário e mostra restaurantes abertos por perto  
@@ -16,6 +17,7 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 
 ---
 
+
 ## 🚀 Tecnologias utilizadas
 
 - [TypeScript](https://www.typescriptlang.org/)
@@ -26,6 +28,7 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 
 ---
 
+
 🛠️ Estrutura do projeto
 
 📦 bot-restaurantes-telegram
@@ -35,6 +38,7 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 ├── package.json
 ├── tsconfig.json
 └── README.md
+
 
 💡 Melhorias futuras
 
