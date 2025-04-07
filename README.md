@@ -33,10 +33,15 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 
 📦 bot-restaurantes-telegram
 ├── 📁 src
+
 │   └── bot.ts
+
 ├── .env
+
 ├── package.json
+
 ├── tsconfig.json
+
 └── README.md
 
 
