@@ -37,6 +37,7 @@ Este projeto é um bot para Telegram, desenvolvido com TypeScript, que ajuda o u
 └── README.md
 
 💡 Melhorias futuras
+
 Suporte a horários de funcionamento detalhados 🕒
 
 Mostrar fotos e mais informações dos lugares 📸
